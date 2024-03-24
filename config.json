@@ -1,0 +1,73 @@
+{
+  "ascii": [
+    "#######  #######  ######   #     #  ###  #     #     #     #       ",
+    "   #     #        #     #  ##   ##   #   ##    #    # #    #       ",
+    "   #     #        #     #  # # # #   #   # #   #   #   #   #       ",
+    "   #     #####    ######   #  #  #   #   #  #  #  #     #  #       ",
+    "   #     #        #   #    #     #   #   #   # #  #######  #       ",
+    "   #     #        #    #   #     #   #   #    ##  #     #  #       ",
+    "   #     #######  #     #  #     #  ###  #     #  #     #  ####### "
+  ],
+  "title":    "Alston's Terminal",
+  "username": "visitor",
+  "hostname": "alstudd",
+  "password": "notsla",
+  "social": {
+    "email": "alstonsoares17@gmail.com",
+    "github": "Alstudd",
+    "linkedin": "alston-soares-724a641b9"
+  },
+"aboutGreeting": "Hey There! I am Alston Soares, a Passionate Web Developer, Open Source Contributor and Blockchain Enthusiast.<br /> I have participated in 8+ national level hackathons and emerged as winner at 3 hackathons.<br /> I am experienced in the frontend development domain and currently improving my backend knowledge.<br /> I have made several projects using technologies like React.js, Next.js, Prisma, MongoDB, Python, Flask, Node.js, Express.js, etc.<br />  I am driven by a dream to build something new that can bring meaning and value to everyone's lives, and<br /> I am eager to collaborate with like-minded individuals to turn this dream into reality.<br /> I'm also interested in working on exciting projects and exploring new opportunities in the tech space.<br /> Let's connect to discuss how we can work together to bring ideas to life and bring about a positive influence in society.",
+  
+"projects": [
+    [
+      "Questify AI",
+      "AI Question Generator and Course Generator using Next.js, TypeScript, Prisma, MongoDB and OpenAI LLM.",
+      "https://github.com/Alstudd/Questify-AI"
+    ],
+    [
+      "EtherShare",
+      "A basic ETH (crypto) sharing platform using React.js, Solidity, Ethers.js, Hardhat and Tailwind CSS.",
+      "https://github.com/Alstudd/EtherShare"
+    ],
+    [
+      "Swasth",
+      "An all in one health web app using Flask, SQLAlchemy, OpenCV, SQLite, HTML, CSS, JS and Bootstrap.",
+      "https://github.com/Alstudd/Health-Web-App-KnowCode"
+    ],
+
+    [
+      "Financify",
+      "Your Budget Buddy, Expense Tracker and Financial Planner made with React, Tailwind CSS and React Router.",
+      "https://github.com/Alstudd/Expense-Tracker-Web-App"
+    ],
+
+    [
+      "Alstazon",
+      "An E-commerce Next.js website with NextAuth and Cart Functionality.",
+      "https://github.com/Alstudd/ecommerce-nextjs"
+    ]
+],
+  "colors": {
+    "background": "#121e26",
+    "banner": "#dce7f3",
+    "border": {
+      "visible": false,
+      "color": "#a2efab"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
